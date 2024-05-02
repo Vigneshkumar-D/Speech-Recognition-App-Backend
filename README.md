@@ -1,4 +1,3 @@
-```markdown
 # Speech Recognition App Backend
 
 ## Overview
